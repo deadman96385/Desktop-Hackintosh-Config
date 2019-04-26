@@ -16,7 +16,7 @@ This entire config would probably work on Mojave as well but I have a Nvidia car
 ## Software
 Used the [Vanilla guide](https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/) and the [Internet Recovery install method](https://internet-install.gitbook.io/macos-internet-install/)
 
-## Config.plist (Removed to protect my PC)
+## Config.plist (Removed some entries to protect my PC)
 * Requires Serial Number (ex. DFOWQLSGH8K)
 * Requires Board-ID (ex. Mac-D859C5498DA9EE9D) 
 
