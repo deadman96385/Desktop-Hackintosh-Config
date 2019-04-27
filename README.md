@@ -11,7 +11,7 @@ This entire config would probably work on Mojave as well but I have a Nvidia car
 * Audio - Realtek ALC1150 (Motherboard Audio)
 * Motherboard - MSI B150 M3
 * Ethernet - Killer E2400 (Motherboard Gigabit Ethernet port)
-* WIFI/BT - Coming Soon
+* WIFI/BT - WTXUP BCM943602CS PCIE-1X Card
 
 ## Software
 Used the [Vanilla guide](https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/) and the [Internet Recovery install method](https://internet-install.gitbook.io/macos-internet-install/)
@@ -31,6 +31,5 @@ Used the [Vanilla guide](https://hackintosh.gitbook.io/-r-hackintosh-vanilla-des
 * dAGPM - Enables Nvidia and AMD HDMI Audio
 
 ## TODO
-1. Install BCM943602CS PCI-E WIFI/BT card when it arrives
 2. Map the USB Ports in the proper way instead of injecting them all
 3. Test HDMI Audio it should work but idk
